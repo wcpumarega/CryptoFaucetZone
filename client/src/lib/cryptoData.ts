@@ -2,47 +2,47 @@ export const cryptocurrencies = [
   {
     name: "Bitcoin",
     symbol: "BTC",
-    iconUrl: "https://cryptologos.cc/logos/bitcoin-btc-logo.svg"
+    iconUrl: "https://resource.cwallet.com/token/icon/btc.png"
   },
   {
     name: "Litecoin",
     symbol: "LTC",
-    iconUrl: "https://cryptologos.cc/logos/litecoin-ltc-logo.svg"
+    iconUrl: "https://resource.cwallet.com/token/icon/ltc.png"
   },
   {
     name: "Tether",
     symbol: "USDT",
-    iconUrl: "https://cryptologos.cc/logos/tether-usdt-logo.svg"
+    iconUrl: "https://resource.cwallet.com/token/icon/usdt.png"
   },
   {
     name: "Shiba Inu",
     symbol: "SHIB",
-    iconUrl: "https://cryptologos.cc/logos/shiba-inu-shib-logo.svg"
+    iconUrl: "https://resource.cwallet.com/token/icon/shib.png"
   },
   {
     name: "Tron",
     symbol: "TRX",
-    iconUrl: "https://cryptologos.cc/logos/tron-trx-logo.svg"
+    iconUrl: "https://resource.cwallet.com/token/icon/trx.png"
   },
   {
     name: "Solana",
     symbol: "SOL",
-    iconUrl: "https://cryptologos.cc/logos/solana-sol-logo.svg"
+    iconUrl: "https://resource.cwallet.com/token/icon/sol.png"
   },
   {
     name: "Floki",
     symbol: "FLOKI",
-    iconUrl: "https://cryptologos.cc/logos/floki-floki-logo.svg"
+    iconUrl: "https://resource.cwallet.com/token/icon/FLOKI.png"
   },
   {
     name: "Dogecoin",
     symbol: "DOGE",
-    iconUrl: "https://cryptologos.cc/logos/dogecoin-doge-logo.svg"
+    iconUrl: "https://resource.cwallet.com/token/icon/doge.png"
   },
   {
     name: "Pepe",
     symbol: "PEPE",
-    iconUrl: "https://cryptologos.cc/logos/pepe-pepe-logo.svg"
+    iconUrl: "https://resource.cwallet.com/token/icon/Pepe.png"
   },
   {
     name: "Trump",

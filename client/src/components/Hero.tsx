@@ -72,7 +72,7 @@ export default function Hero() {
             <div className="absolute -inset-0.5 bg-primary rounded-2xl opacity-20 blur-xl animate-pulse"></div>
             <div className="relative bg-card rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1621501103258-d0ae20a4367f?auto=format&fit=crop&q=80&w=1974" 
+                src="https://acryptominer.io/assets/images/logo.png" 
                 alt="Cryptocurrency rewards concept" 
                 className="w-full h-auto rounded-2xl"
               />
